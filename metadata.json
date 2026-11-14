@@ -1,0 +1,8 @@
+{
+  "name": "NeceCity",
+  "description": "Obsidian-themed everyday essentials suite featuring Calculator, Calendar, Notes, World Clock, and Alarms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

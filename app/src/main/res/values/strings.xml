@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">NeceCity</string>
+    <string name="nav_calculator">Calculator</string>
+    <string name="nav_calendar">Calendar</string>
+    <string name="nav_notes">Notes</string>
+    <string name="nav_clock">Clock</string>
+    <string name="wallpaper_menu_title">Backdrop Theme</string>
+    <string name="wallpaper_menu_subtitle">Customize NeceCity ambient surface</string>
+    <string name="wallpaper_choose_photo">Choose custom photo</string>
+    <string name="wallpaper_preset_orbit">Obsidian</string>
+    <string name="wallpaper_preset_aurora">Aurora</string>
+    <string name="wallpaper_preset_dusk">Dusk</string>
+    <string name="wallpaper_preset_emerald">Mist</string>
+    <string name="wallpaper_preset_nocturne">Sapphire</string>
+    <string name="wallpaper_preset_custom">My Photo</string>
+    <string name="auth_title">Welcome to NeceCity</string>
+    <string name="auth_subtitle">Your essential obsidian suite for calculations, schedules, notes, world time, and alarms — synced securely to the cloud.</string>
+    <string name="sign_in_google">Sign in with Google</string>
+    <string name="use_offline">Use Offline (No Google)</string>
+    <string name="offline_hint">Store notes, events, alarms, clocks, and history locally on this device.</string>
+    <string name="offline_badge">Offline · Local</string>
+    <string name="switch_to_google">Connect Google Account</string>
+    <string name="switch_to_offline">Use Offline Mode</string>
+    <string name="sign_out">Sign out</string>
+    <string name="search_notes_hint">Search notes by title or content</string>
+    <string name="clear_search">Clear</string>
+</resources>
